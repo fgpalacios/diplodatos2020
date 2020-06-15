@@ -11,10 +11,10 @@ Posee los siguientes campos:
 * name_node_a: nombre del nodo
 * n.type: tipo del nodo pueden ser:
 	* person: indica que la informacion del nodo es una persona. Los datos vinculados a una persona son:
-		*** gender: sexo de la persona
-		*** age: edad de la persona
-		*** category: nivel de experiencia
-		*** experience: años de experiencia
+		* gender: sexo de la persona
+		* age: edad de la persona
+		* category: nivel de experiencia
+		* experience: años de experiencia
 	* technologies: indica que la informacion del nodo es una tecnologia (o grupo de tecnologías)
 	* skill: indica que la informacion del nodo es un perfil de trabajo
 	* team: indica que la informacion del nodo es equipo que está compuesto por personas.
